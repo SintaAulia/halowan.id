@@ -1,0 +1,2 @@
+# Folder ini tidak boleh diakses langsung; gambar disajikan lewat route /media/{nama}
+Require all denied
